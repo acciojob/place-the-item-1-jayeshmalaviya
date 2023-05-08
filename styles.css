@@ -7,7 +7,7 @@ body{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap: wrap;
-	gap:10px;
+/* 	gap:10px; */
 }
 .container div{
 	background-color:red;
