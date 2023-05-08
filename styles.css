@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body{
+	margin:0;
+}
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap: wrap;
+	gap:10px;
+}
+.container div{
+	background-color:red;
+	width:200px;
+	height:200px;
+}
